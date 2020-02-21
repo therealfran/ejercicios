@@ -1,6 +1,4 @@
 Algoritmo sin_titulo
-	Escribir "¿cuántas filas tiene la matriz?"
-	Leer numfilas
 	Escribir "¿cuántas columnas tiene la matriz?"
 	Leer numcolumnas
 	Dimension notas(numfilas,numcolumnas)
